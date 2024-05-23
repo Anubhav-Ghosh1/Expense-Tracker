@@ -1,4 +1,7 @@
 # Expense-Tracker
+
+![Expense-Tracker](https://socialify.git.ci/Anubhav-Ghosh1/Expense-Tracker/image?forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark)
+
 ## Overview
 
 Expense Tracker is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It enables users to manage their finances effectively with features designed to provide a comprehensive overview of their financial activities. This application helps users track their income and expenses, categorize their spending, and visualize their financial patterns.
